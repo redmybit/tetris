@@ -1,0 +1,28 @@
+body, html {
+	background-color: #bbc;
+}
+
+#main-canvas {
+	background-color: black;
+	margin: 10px auto 10px auto;
+}
+
+.container {
+	display: block;
+	width: 600px;
+	height: 550px;
+	margin: 10px auto 10px auto;
+	
+	/* border: 2px solid black; */
+}
+
+.fit {
+	display: block;
+
+	width: 375px;
+	height: auto;
+
+	margin: 10px auto 10px auto;
+	
+	/* border: 2px solid blue; */
+}
